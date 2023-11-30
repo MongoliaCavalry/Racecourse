@@ -4,7 +4,7 @@
 
 基于 olilarkin/xeus-cling-mpl 镜像来创建自己的 Docker 镜像
 
-![CJupyter](https://drive.google.com/file/d/13A85647T3ZEansHN7qQ3I8DFbWAFHL4N/view?usp=sharing)
+![CJupyter](https://pic.ziyuan.wang/2023/12/01/guest_df63b50880f3c.png)
 
 ## create docker image
 
