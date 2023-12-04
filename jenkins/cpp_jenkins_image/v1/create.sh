@@ -1,0 +1,1 @@
+docker build -t="liupeng0/jenkins_cpp:v4" .
