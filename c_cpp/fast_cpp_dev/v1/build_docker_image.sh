@@ -1,0 +1,1 @@
+docker build -t fast_cpp_dev .
